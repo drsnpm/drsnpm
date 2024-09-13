@@ -1,7 +1,7 @@
 ![logo](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
 <h1 align="center">Hi 👋, I'm Darshan Parameshwar Moger</h1>
 <h3 align="center">I completed my engineering degree in Computer Science and Engineering in 2024.</h3>
-<img align="right" width="400" alt="coding" src="https://i.pinimg.com/originals/f8/41/ac/f841ac2befaedda240c55a06b23b33ec.gif">
+<img align="right" width="400" height="250" alt="coding" src="https://i.pinimg.com/originals/f8/41/ac/f841ac2befaedda240c55a06b23b33ec.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drsnpm&label=Profile%20views&color=0e75b6&style=flat" alt="drsnpm" /> </p>
 
 - 🌱 I’m currently learning **Java Full Stack Developer course**
