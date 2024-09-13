@@ -5,13 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drsnpm&label=Profile%20views&color=0e75b6&style=flat" alt="drsnpm" /> </p>
 
 - 🌱 I’m currently learning **Java Full Stack Developer course**
-
-- 👨‍💻 All of my projects are available at [https://drsnpm.github.io/portfolio/](https://drsnpm.github.io/portfolio/)
-
-- 📫 How to reach me **darshanmoger54@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QwZC5d4ZiyU7Zdg3uMjPA9LWG7rSntor/view?usp=sharing](https://drive.google.com/file/d/1QwZC5d4ZiyU7Zdg3uMjPA9LWG7rSntor/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/drsnpm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="drsnpm" height="30" width="40" /></a>
